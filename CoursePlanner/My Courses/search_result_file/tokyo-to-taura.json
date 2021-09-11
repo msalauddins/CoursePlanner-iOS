@@ -1,0 +1,607 @@
+{
+    "response_info": {
+        "apv": "1.0",
+        "status": 0,
+        "messages": [],
+        "rlang": [
+            "en",
+            "ja",
+            "eknm"
+        ]
+    },
+    "search_param": {
+        "nodes": {
+            "f": {
+                "kubun": "R",
+                "name": [
+                    "Tokyo",
+                    "東京",
+                    "JY01"
+                ],
+                "lat": 128440100,
+                "lon": 503171400,
+                "wlat": 128451762,
+                "wlon": 503159757
+            },
+            "t": {
+                "kubun": "R",
+                "name": [
+                    "Taura",
+                    "田浦",
+                    "JO04"
+                ],
+                "lat": 127042300,
+                "lon": 502706400,
+                "wlat": 127054106,
+                "wlon": 502694852
+            }
+        },
+        "ambiguous": {
+            "f": false,
+            "t": false
+        },
+        "search_date": "20190116",
+        "search_time": "1602",
+        "ftsw": 0,
+        "plussrch_param": ""
+    },
+    "results": [
+        {
+            "route_no": 0,
+            "hyouka": {
+                "npath": 2,
+                "flags": "1110001111010000",
+                "jikan": 70,
+                "hiyou": 1080,
+                "org_hiyou": -1,
+                "ic_hiyou": 1080,
+                "org_ic_hiyou": -1,
+                "dates": [
+                    "20190116",
+                    "20190116"
+                ],
+                "co2": 1206,
+                "distance": 603,
+                "ic_umu": true
+            },
+            "hotel_link2_query": "lang=en&radius=3&latitude=35.292807&longitude=139.637459&checkin_monthday=16&checkin_year_month=2019-01&checkout_monthday=17&checkout_year_month=2019-01&do_availability_check=1",
+            "rail_infos": {
+                "unkou": [],
+                "rosen": [],
+                "kouji": [],
+                "live": []
+            },
+            "exits": [
+                {
+                    "status": false
+                },
+                {
+                    "status": false
+                }
+            ],
+            "paths": [
+                {
+                    "path_no": 0,
+                    "rosen_name": [
+                        "Yokosuka Line",
+                        "横須賀線",
+                        ""
+                    ],
+                    "rosen_kubun": 0,
+                    "k_kubun": "R",
+                    "color": {
+                        "pattern": 0,
+                        "rgb": [
+                            "0071C5"
+                        ]
+                    },
+                    "line_name": [
+                        "Yokosuka Line (For Zushi)",
+                        "横須賀線(逗子行)",
+                        ""
+                    ],
+                    "josyaichi": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "jikan": 61,
+                    "use_teiki": false,
+                    "seat": 0,
+                    "seat_text": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "air_ukubun": "",
+                    "ic_umu": true,
+                    "ryoukin": 1080,
+                    "ic_ryoukin": 1080,
+                    "r_seat": 0,
+                    "ic_r_seat": 0,
+                    "r_add": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "e_add": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "w_oufuku": false,
+                    "trans_time": [
+                        1,
+                        1
+                    ],
+                    "wait_time": 0,
+                    "tokurei": 256,
+                    "ic_tokurei": 512,
+                    "u_tuusan": 1,
+                    "r_tuusan": 0,
+                    "ic_u_tuusan": 1,
+                    "ic_r_tuusan": 0,
+                    "hint": 0,
+                    "distance": 603,
+                    "select_line": "436960\/1",
+                    "index": 18612244,
+                    "eki_count": 14,
+                    "nodes": [
+                        {
+                            "name": [
+                                "Tokyo",
+                                "東京",
+                                "JO19"
+                            ],
+                            "lat": 128443900,
+                            "lon": 503168900,
+                            "wlat": 128455561,
+                            "wlon": 503157257,
+                            "jikoku": {
+                                "date": "20190116",
+                                "time": "1602",
+                                "type": 0
+                            },
+                            "weather": 1,
+                            "platform": [
+                                "Sobu Line Platform 1",
+                                "総武１番線",
+                                ""
+                            ],
+                            "eki_numbering": "JO19"
+                        },
+                        {
+                            "name": [
+                                "Zushi",
+                                "逗子",
+                                "JO06"
+                            ],
+                            "lat": 127058800,
+                            "lon": 502493700,
+                            "wlat": 127070598,
+                            "wlon": 502482170,
+                            "jikoku": {
+                                "date": "20190116",
+                                "time": "1703",
+                                "type": 0
+                            },
+                            "platform": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "eki_numbering": "JO06"
+                        }
+                    ],
+                    "toeki_shihatsu": false,
+                    "bus_location": false,
+                    "railpass": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "symbol_color": "0071C5",
+                    "rosen_symbol": "JO",
+                    "trans_guide": 0,
+                    "trans_guide_stairs": 0,
+                    "trans_guide_elevator": 0,
+                    "trans_guide_escalator": 0,
+                    "trans_guide_oneroute": 0,
+                    "line_diagram": [
+                        {
+                            "name": [
+                                "Shimbashi",
+                                "新橋",
+                                "JO18"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1605",
+                                    "type": 0,
+                                    "eki_numbering": "JO18"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1605",
+                                    "type": 0,
+                                    "eki_numbering": "JO18"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Shinagawa",
+                                "品川",
+                                "JO17"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1611",
+                                    "type": 0,
+                                    "eki_numbering": "JO17"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1611",
+                                    "type": 0,
+                                    "eki_numbering": "JO17"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Nishi-Oi",
+                                "西大井",
+                                "JO16"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1616",
+                                    "type": 0,
+                                    "eki_numbering": "JO16"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1616",
+                                    "type": 0,
+                                    "eki_numbering": "JO16"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Musashi-Kosugi",
+                                "武蔵小杉",
+                                "JO15"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1621",
+                                    "type": 0,
+                                    "eki_numbering": "JO15"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1621",
+                                    "type": 0,
+                                    "eki_numbering": "JO15"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Shin-Kawasaki",
+                                "新川崎",
+                                "JO14"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1624",
+                                    "type": 0,
+                                    "eki_numbering": "JO14"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1624",
+                                    "type": 0,
+                                    "eki_numbering": "JO14"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Yokohama",
+                                "横浜",
+                                "JO13"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1634",
+                                    "type": 0,
+                                    "eki_numbering": "JO13"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1634",
+                                    "type": 0,
+                                    "eki_numbering": "JO13"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Hodogaya",
+                                "保土ヶ谷",
+                                "JO12"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1637",
+                                    "type": 0,
+                                    "eki_numbering": "JO12"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1637",
+                                    "type": 0,
+                                    "eki_numbering": "JO12"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Higashi-Totsuka",
+                                "東戸塚",
+                                "JO11"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1642",
+                                    "type": 0,
+                                    "eki_numbering": "JO11"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1642",
+                                    "type": 0,
+                                    "eki_numbering": "JO11"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Totsuka",
+                                "戸塚",
+                                "JO10"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1646",
+                                    "type": 0,
+                                    "eki_numbering": "JO10"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1646",
+                                    "type": 0,
+                                    "eki_numbering": "JO10"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Ofuna",
+                                "大船",
+                                "JO09"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1651",
+                                    "type": 0,
+                                    "eki_numbering": "JO09"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1652",
+                                    "type": 0,
+                                    "eki_numbering": "JO09"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Kita-Kamakura",
+                                "北鎌倉",
+                                "JO08"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1655",
+                                    "type": 0,
+                                    "eki_numbering": "JO08"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1655",
+                                    "type": 0,
+                                    "eki_numbering": "JO08"
+                                }
+                            ]
+                        },
+                        {
+                            "name": [
+                                "Kamakura",
+                                "鎌倉",
+                                "JO07"
+                            ],
+                            "jikoku": [
+                                {
+                                    "date": "20190116",
+                                    "time": "1658",
+                                    "type": 0,
+                                    "eki_numbering": "JO07"
+                                },
+                                {
+                                    "date": "20190116",
+                                    "time": "1658",
+                                    "type": 0,
+                                    "eki_numbering": "JO07"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "path_no": -1,
+                    "rosen_name": [
+                        "Yokosuka Line",
+                        "横須賀線",
+                        ""
+                    ],
+                    "rosen_kubun": 0,
+                    "k_kubun": "R",
+                    "color": {
+                        "pattern": 0,
+                        "rgb": [
+                            "0071C5"
+                        ]
+                    },
+                    "line_name": [
+                        "Yokosuka Line (For Kurihama)",
+                        "横須賀線(久里浜行)",
+                        ""
+                    ],
+                    "josyaichi": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "jikan": 7,
+                    "use_teiki": false,
+                    "seat": 0,
+                    "seat_text": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "air_ukubun": "",
+                    "ic_umu": true,
+                    "ryoukin": 0,
+                    "ic_ryoukin": 0,
+                    "r_seat": 0,
+                    "ic_r_seat": 0,
+                    "r_add": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "e_add": [
+                        "",
+                        "",
+                        ""
+                    ],
+                    "w_oufuku": false,
+                    "trans_time": [
+                        0,
+                        0
+                    ],
+                    "wait_time": 1,
+                    "tokurei": 0,
+                    "ic_tokurei": 0,
+                    "u_tuusan": 1,
+                    "r_tuusan": 0,
+                    "ic_u_tuusan": 1,
+                    "ic_r_tuusan": 0,
+                    "hint": 0,
+                    "distance": -1,
+                    "select_line": "514140\/1",
+                    "index": 15663124,
+                    "eki_count": 3,
+                    "nodes": [
+                        {
+                            "name": [
+                                "Zushi",
+                                "逗子",
+                                "JO06"
+                            ],
+                            "lat": 127058800,
+                            "lon": 502493700,
+                            "wlat": 127070598,
+                            "wlon": 502482170,
+                            "jikoku": {
+                                "date": "20190116",
+                                "time": "1705",
+                                "type": 0
+                            },
+                            "platform": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "eki_numbering": "JO06"
+                        },
+                        {
+                            "name": [
+                                "Taura",
+                                "田浦",
+                                "JO04"
+                            ],
+                            "lat": 127042300,
+                            "lon": 502706400,
+                            "wlat": 127054106,
+                            "wlon": 502694852,
+                            "jikoku": {
+                                "date": "20190116",
+                                "time": "1712",
+                                "type": 0
+                            },
+                            "weather": 1,
+                            "platform": [
+                                "",
+                                "",
+                                ""
+                            ],
+                            "eki_numbering": "JO04"
+                        }
+                    ],
+                    "toeki_shihatsu": false,
+                    "bus_location": false,
+                    "railpass": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "symbol_color": "000000",
+                    "rosen_symbol": "",
+                    "trans_guide": 0,
+                    "trans_guide_stairs": 0,
+                    "trans_guide_elevator": 0,
+                    "trans_guide_escalator": 0,
+                    "trans_guide_oneroute": 0
+                }
+            ]
+        }
+    ],
+    "debug_info": []
+}

@@ -1,0 +1,12 @@
+[
+{
+"place": 1,
+"startDate": "10 May 2017",
+"endDate": "15 July 2018"
+},
+{
+"place": 2,
+"startDate": "20 March 2018",
+"endDate": "11 May 2019"
+}
+]
